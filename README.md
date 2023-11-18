@@ -1,15 +1,18 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bilal Chbanat</h1>
-<h3 align="center"> I'm Bilal Chbanat, a passionate Moroccan developer.</h3>
+<h3 align="center">👋 Hi there! I'm Bilal Chbanat, a passionate Moroccan developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalchbanat&label=Profile%20views&color=0e75b6&style=flat" alt="bilalchbanat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalchbanat" alt="bilalchbanat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@bledgwin" target="blank"><img src="https://img.shields.io/twitter/follow/@bledgwin?logo=twitter&style=for-the-badge" alt="@bledgwin" /></a> </p>
 
+- 🔭 I’m **Bilal Chbanat**
+
 - 🌱 I’m currently learning **PHP,JAVA**
+
+- 👯 Age **20**
+
+- 🤝 I’m looking for help to be **the best Developer**
 
 - 💬 Ask me about **Front End Development**
 
