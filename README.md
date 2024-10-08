@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP,JAVA**
 
-- 👯 Age **20**
+- 👯 Age **21**
 
 - 🤝 I’m looking for help to be **the best Developer**
 
