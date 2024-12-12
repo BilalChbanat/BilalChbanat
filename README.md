@@ -12,7 +12,7 @@
 
 - 👯 Age **21**
 
-- 🤝 I’m looking for help to be **the best Developer**
+- 🤝 I’m looking for help to be **Java specialist**
 
 - 💬 Ask me about **Front End Development**
 
